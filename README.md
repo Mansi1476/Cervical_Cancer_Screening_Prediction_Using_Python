@@ -1,1 +1,1 @@
-# Cervical_Cancer_Screening_Prediction_Using_Python
+### This repository contains the Python code for a cervical cancer screening predictive model, which can be found in the 'python_assignment' folder. The main libraries utilized in this project include NumPy, Pandas, Scikit-learn, Matplotlib, Imblearn, and Seaborn. The performance of the model was evaluated using commonly used evaluation metrics such as precision, recall, F1-score, and support
